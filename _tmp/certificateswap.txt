@@ -1,0 +1,289 @@
+Home
+Sell
+Buy
+Shopping Cart
+Sign In/Out
+My Account
+
+
+
+
+
+
+
+
+
+
+
+My Account
+
+My Account
+You may view your inventory, review purchases, and much more.
+                               ------------------------
+                               | My Balances
+                               |-----------------------
+                               | Cash Balance:    $0.00
+                               | Pending Cash:    $0.00
+                               | GiftBux Balance: $0.00
+                               ------------------------
+
+[ Deposit/Redeem GiftBux ]
+
+-------------------------------------------------------------
+
+Personal Information
+Update your email address and other personal information
+
+My Inventory
+View and remove certificates you currently have listed for sale.
+
+Purchases
+Review your past purchases and leave feedback for other
+
+Sales
+View all of your sales in the past 7 days.
+
+Print GiftBux
+Print purchased GuftBux
+
+Seller Payments
+Review your payment history or request a payment.
+
+Favorite Stores
+Review your list of favotire stores for email notification of new certificates.
+
+Need Help?
+Contact us by creating a support ticket.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Inventory
+Edit or remove items you currently have listed for sale.
+--------------------------------------------------------------
+
+Name                                   [ Back to My Account ]
+
+                                      
+                                      List a Certificate For Sale
+                                      ___________________________
+
+-----------------------------------------------------------------------------------------
+Store Name:               Date Listed:   My Sale Price:  Face-Value:  Comments:
+-----------------------------------------------------------------------------------------
+| You have no inventory listed.
+-----------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Purchase History
+Review your previous purchases!
+----------------------------------------------------------------------------
+
+username (0)                                       [ Back to My Account ]
+________
+
+----------------------------------------------------------------------------
+
+
+
+
+
+
+
+Contact a User!
+Use the form below to send this user an email.
+----------------------------------------------------------------------------
+You can contact username through CertificateSwap.com's private email messaging system. The email addresses of our
+users have been confirmed by CertificateSwap.com as valid however they are not revealed to protect the privacy of our users.
+----------------------------------------------------------------------------
+
+___________________________________________________________________________
+|NOTICE: This form is not to be used to "make an offer" on a certificate this user has listed for
+|sale, or to offer to "swap" a certificate. These messages are monitored and sending a 
+|message of this type can result in the termination of your account (Learn More)
+---------------------------------------------------------------------------
+
+Send to: username
+Subject: [ CertificateSwap.com Question ]
+Message:                        ---------------------------------------------
+*HTML cannot be displayed       |
+                                |
+                                |
+                                |
+                                |
+                                ---------------------------------------------
+
+
+[ SEND MESSAGE ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recent Sales
+View recent sales in the past 7 days.
+-----------------------------------------------------------------------------
+username                                                [ Back to My Account ]
+
+-----------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+| Transaction #:    Date:  Buyer Username:      Store Name:    Face-Value: Sale Price:
+------------------------------------------------------------------------------
+
+
+
+                                          -----------------------------------
+                                          |  Total    | $0.00
+                                          -----------------------------------
+
+------------------------------------------------------------------------------
+
+
+
+
+
+
+RePrint Ordered GiftBux!
+Use this page to RePrint Ordered GiftBux.
+-----------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
+| Date                    Recipient                   Amount         Print
+-----------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Request a Payment
+Use the form below to withdrawl your cash balance.
+-----------------------------------------------------------------------------
+
+Username                                                 [ Back to My Account ]
+
+-----------------------------------------------------------------------------
+
+Your Current Cash Balance = $0.00
+
+If your cash balance exceeds $25.00 then you may use the form below to request a check or payment via PayPal. Please
+confirm your mailing address below and your email address and choose to receive your payment either by check or via
+PayPal and then click the Request a Payment button. This will immediately erase your entire cash balance and payment will
+be sent to you via the delivery method you specified in the full amount of your cash balance less a $2.00 processing fee.
+-----------------------------------------------------------------------------
+
+Your Name:         First Last
+Mailing Address:   -----------------------------
+                   |Address
+                   |City, State, Zip
+                   |Country
+                   |----------------------------
+
+PayPal Email Address: ---------------------------
+                      |                            (optional)
+                      ---------------------------
+Payment Method:   (*) Check   ( ) Paypal
+
+
+-----------------------------------------------------------------------------
+
+[ Request Payment ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Favorite Stores & Notifications
+Choose your favorite stores and have CertificateSwap.com notify you of new listings!
+------------------------------------------------------------------------------
+
+First Last                                      [ Back to My Account ]
+
+------------------------------------------------------------------------------
+
+You will be notified if any new certificates are posted to your favorite stores listed below.
+
+-----------------------------------------------------------------------------
+| Store Name:
+----------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buy a Gift Certificate
+
+
